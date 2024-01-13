@@ -1,2 +1,2 @@
 # LMP3D_PSX
-old code for my cross-platform 3D engine for PS1
+Ancien code pour mon moteur 3D multiplateforme pour PS1
